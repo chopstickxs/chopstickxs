@@ -14,6 +14,7 @@
 ## ⌨️Currently using
 - Python
 - Javascript
+- Typescript
 
 ## 💬Currently looking to contribute to
 - Pip Packages
