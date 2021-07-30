@@ -25,7 +25,7 @@
 ## ✉️How to reach me
 - Email: chopstickxs@yandex.com
 - Discord: chopstickxs#6546
-- Github Issuse: Make a github issuse on my questions repository
+- Github Issuse: Make a github issuse on my chopstickxs repository
 
 ## 📊Github Stats
 ![Chopstickxs's GitHub stats](https://github-readme-stats.vercel.app/api?username=chopstickxs&show_icons=true&theme=radical)
