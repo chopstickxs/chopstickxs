@@ -15,6 +15,7 @@
 - Python
 - Javascript
 - Typescript
+- Java
 
 ## 💬Currently looking to contribute to
 - Pip Packages
